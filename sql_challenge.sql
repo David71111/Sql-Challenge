@@ -1,6 +1,7 @@
 -- Data Engineering
 -- I created a DB sql_challenge
 
+-- Create tables
 -- Create the departments table
 CREATE TABLE departments (
     dept_no VARCHAR(4) PRIMARY KEY,
